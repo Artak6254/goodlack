@@ -378,7 +378,7 @@ aside .sidebar .info h2 a {
 }
 
 aside .sidebar .sidebar_info {
-    padding-top: 6rem;
+    padding-top: 1.5rem;
     margin-left: -8px;
 }
 
@@ -422,16 +422,15 @@ aside .sidebar_links .catalog .catalog_link a {
     padding-left: 1rem;
     color: var(--colorBlack);
 }
-/* aside .sidebar .sidebar_info{
-    display: none;
-} */
+
+
 aside .sidebar .sidebar_info a {
     display: block;
     color: var(--colorBlack);
 }
 
 aside .sidebar .sidebar_footer {
-    padding-top: 3rem;
+    padding-top: 2rem;
 }
 
 aside .sidebar .sidebar_footer a {
@@ -441,7 +440,7 @@ aside .sidebar .sidebar_footer a {
     color: var(--colorBlack);
 }
 
- /* aside .sidebar .info.none {
+/* aside .sidebar .info.none {
     display: ;
 } */
 /* 
@@ -454,7 +453,7 @@ aside .fa-arrow-left-long {
     padding-right: 0.7rem;
 }
 
-aside .sidebar .info .sidebar_info .line{
+aside .sidebar .info .sidebar_info .line {
     border-top: 1px solid var(--colorGrey);
     border-bottom: 1px solid var(--colorGrey);
     padding: 1rem 0;
@@ -642,7 +641,7 @@ footer .scroll_top:hover {
         right: 0;
     }
 
-    aside .sidebar{
+    aside .sidebar {
         left: -150%;
     }
 }
